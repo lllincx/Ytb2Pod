@@ -1,0 +1,10 @@
+Feature
+install audio from youtube playlist with info
+upload audio to ali oss
+gen rss file by audio info 
+update rss to ali oss
+
+Method
+cd ./
+python3 youtube.py
+python3 rss.py
