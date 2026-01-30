@@ -2,636 +2,31 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>LinPod</title>
-    <link>https://linpod.oss-cn-shanghai.aliyuncs.com</link>
+    <link>https://linpod.lllincx.cn</link>
     <description>Podcast by Chauncey</description>
-    <itunes:image href="https://linpod.oss-cn-shanghai.aliyuncs.com/cover.jpg"/>
+    <language>zh-cn</language>
+    <itunes:author>Chauncey</itunes:author>
+    <itunes:image href="https://linpod.lllincx.cn/linpod.jpg"/>
     <item>
-      <title>【睡前消息998】电动车新规，车主得交钱修路</title>
-      <guid isPermaLink="false">BV1QWvaBfEKQ</guid>
-      <description>电动车新规背后的社会矛盾</description>
-      <pubDate>Tue, 30 Dec 2025 00:00:00 -0000</pubDate>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/【睡前消息998】电动车新规，车主得交钱修路.m4a" length="6573880" type="audio/m4a"/>
-      <itunes:duration>814</itunes:duration>
-    </item>
-    <item>
-      <title>方脸说：中国模式到底是什么？中国模式是如何带领中国创造经济奇迹的，又是如何走向绝路的？</title>
-      <guid isPermaLink="false">vKIozLkc-KA</guid>
-      <description>欢迎加入我的会员：https://www.youtube.com/channel/UCzYYzigb1vXR0GQXXBja2kg/join</description>
-      <pubDate>Wed, 31 Dec 2025 00:00:00 -0000</pubDate>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/方脸说：中国模式到底是什么？中国模式是如何带领中国创造经济奇迹的，又是如何走向绝路的？.m4a" length="18798375" type="audio/m4a"/>
-      <itunes:duration>1162</itunes:duration>
-    </item>
-    <item>
-      <title>老梁：践踏私权 文物流失之根</title>
-      <guid isPermaLink="false">P-nqhUqg4m0</guid>
-      <description>最近南京博物院《江南春》流入拍卖市场...老梁解读为何文物流失现象严重。</description>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 -0000</pubDate>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/老梁：践踏私权 文物流失之根.m4a" length="41481921" type="audio/m4a"/>
-      <itunes:duration>2565</itunes:duration>
-    </item>
-    <item>
-      <title>【睡前消息1000】身后是一千，小目标是一万</title>
-      <guid isPermaLink="false">BV1tWvDBkEbb</guid>
-      <description>1000期特别节目</description>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 -0000</pubDate>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/【睡前消息1000】身后是一千，小目标是一万.m4a" length="16623454" type="audio/m4a"/>
-      <itunes:duration>2066</itunes:duration>
-    </item>
-    <item>
-      <title>谷歌再次伟大了吗？</title>
-      <guid isPermaLink="false">DaldAAdtohk</guid>
-      <description>今天，咱就来聊聊谷歌是怎么逆风翻盘的！</description>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 -0000</pubDate>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/谷歌再次伟大了吗？.m4a" length="17447276" type="audio/m4a"/>
-      <itunes:duration>1079</itunes:duration>
-    </item>
-    <item>
-      <title>【睡前消息999】2025年终汉字 砼</title>
-      <guid isPermaLink="false">BV1gSiTBfEez</guid>
-      <description>2025年终汉字</description>
-      <pubDate>Wed, 31 Dec 2025 00:00:00 -0000</pubDate>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/【睡前消息999】2025年终汉字 砼.m4a" length="13538520" type="audio/m4a"/>
-      <itunes:duration>1677</itunes:duration>
-    </item>
-    <item>
-      <title>老梁理解白岩松 2024年促消费 如何解决老百姓“有钱不敢花”</title>
-      <guid isPermaLink="false">rvQMc9BIHe4</guid>
-      <description>严选岩茶：https://rock-teas.myshopify.com/</description>
-      <pubDate>Wed, 03 Jan 2024 00:00:00 -0000</pubDate>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/老梁理解白岩松 2024年促消费 如何解决老百姓“有钱不敢花”.m4a" length="9655161" type="audio/m4a"/>
-      <itunes:duration>597</itunes:duration>
-    </item>
-    <item>
-      <title>【睡前消息996】8万消挂科 杨炜长的西安工商旅行社</title>
-      <guid isPermaLink="false">BV1T7BYBeEbn</guid>
-      <description>西安工商学院“微留学”消挂科事件</description>
-      <pubDate>Fri, 26 Dec 2025 00:00:00 -0000</pubDate>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/【睡前消息996】8万消挂科 杨炜长的西安工商旅行社.m4a" length="8876190" type="audio/m4a"/>
-      <itunes:duration>1118</itunes:duration>
-    </item>
-    <item>
-      <title>【睡前消息994】越南缺房子 深圳缺垃圾</title>
-      <guid isPermaLink="false">BV1J7qDBeEg5</guid>
-      <description>1 越南近期房价暴涨。2 深圳垃圾处理问题</description>
-      <pubDate>Sun, 21 Dec 2025 00:00:00 -0000</pubDate>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/【睡前消息994】越南缺房子 深圳缺垃圾.m4a" length="9764853" type="audio/m4a"/>
-      <itunes:duration>1207</itunes:duration>
-    </item>
-    <item>
-      <title>吳三桂是漢奸嗎？</title>
-      <guid isPermaLink="false">PaovRh4bNsk</guid>
-      <description>本集我們來談談"吳三桂引清兵入關"的始末</description>
-      <pubDate>Tue, 30 Dec 2025 00:00:00 -0000</pubDate>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/吳三桂是漢奸嗎？.m4a" length="23380845" type="audio/m4a"/>
-      <itunes:duration>1446</itunes:duration>
-    </item>
-    <item>
-      <title>方脸人物志：功过是非-邓小平！邓小平-改革的推进者，也是改革的阻碍者！邓小平与8964和改革开放！李鹏丨胡耀邦丨赵紫阳</title>
-      <guid isPermaLink="false">qRkP6za-M5c</guid>
-      <description>00:00 引言 01:05 邓小平上台后的权力格局...</description>
-      <pubDate>Mon, 28 Jul 2025 00:00:00 -0000</pubDate>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/方脸人物志：功过是非-邓小平！邓小平-改革的推进者，也是改革的阻碍者！邓小平与8964和改革开放！李鹏丨胡耀邦丨赵紫阳.m4a" length="37116785" type="audio/m4a"/>
-      <itunes:duration>2295</itunes:duration>
-    </item>
-    <item>
-      <title>习近平的稿费知多少？｜习近平谈治国理政｜习近平著作选读｜之江新语｜习近平法治思想｜习近平谈一带一路｜稿费｜毛泽东｜张玉凤｜朱镕基｜王局拍案20231215</title>
-      <guid isPermaLink="false">GwLS5hJ4k8A</guid>
-      <description>习近平在十年內出版的140多本书之一，平均每个月出一本，堪称是全球最高产作家。</description>
-      <pubDate>Wed, 27 Dec 2023 00:00:00 -0000</pubDate>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/习近平的稿费知多少？｜习近平谈治国理政｜习近平著作选读｜之江新语｜习近平法治思想｜习近平谈一带一路｜稿费｜毛泽东｜张玉凤｜朱镕基｜王局拍案20231215.m4a" length="25492833" type="audio/m4a"/>
-      <itunes:duration>1576</itunes:duration>
-    </item>
-    <item>
-      <title>方脸人物志：中共伪君子-周恩来，周恩来是如何成为总理的？他和毛泽东之间关系到底如何？伪君子-周恩来</title>
-      <guid isPermaLink="false">HCzulUd1V2A</guid>
-      <description>0:00 舔苏腾飞 10:42 干儿子被抛弃 15:00 特务生涯...</description>
-      <pubDate>Sun, 04 Jan 2026 00:00:00 -0000</pubDate>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/方脸人物志：中共伪君子-周恩来，周恩来是如何成为总理的？他和毛泽东之间关系到底如何？伪君子-周恩来.m4a" length="40177870" type="audio/m4a"/>
-      <itunes:duration>2484</itunes:duration>
-    </item>
-    <item>
-      <title>从比肩美国，到人间炼狱：社会主义如何摧毁委内瑞拉？</title>
-      <guid isPermaLink="false">vJsAf0Y8_Fw</guid>
-      <description>个“资源富国”为何在短短二十年间崩塌成“饥荒废墟”？</description>
-      <pubDate>Mon, 15 Dec 2025 00:00:00 -0000</pubDate>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/从比肩美国，到人间炼狱：社会主义如何摧毁委内瑞拉？.m4a" length="35557185" type="audio/m4a"/>
-      <itunes:duration>2199</itunes:duration>
-    </item>
-    <item>
-      <title>【参考信息第549期】撬动零负债人群；佛道协设监事会</title>
-      <guid isPermaLink="false">RNCuKhIcIcI</guid>
-      <description>2026年了，有些地方还在执行疫情时的特殊规定...</description>
-      <pubDate>Mon, 05 Jan 2026 00:00:00 -0000</pubDate>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/【参考信息第549期】撬动零负债人群；佛道协设监事会.m4a" length="14769073" type="audio/m4a"/>
-      <itunes:duration>913</itunes:duration>
-    </item>
-    <item>
-      <title>【睡前消息1001】增值电商税 聚变炼金术</title>
-      <guid isPermaLink="false">yhkhYBmJoyM</guid>
-      <description>“电商税”的概念，给一大批小业主带来了资金压力。</description>
-      <pubDate>Mon, 05 Jan 2026 00:00:00 -0000</pubDate>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/【睡前消息1001】增值电商税 聚变炼金术.m4a" length="23709048" type="audio/m4a"/>
-      <itunes:duration>1466</itunes:duration>
-    </item>
-    <item>
-      <title>老梁：学生举报老师 闹剧何时休</title>
-      <guid isPermaLink="false">HktfsgekyUU</guid>
-      <description>老梁解读大学里学生举报老师现象，老师如何规避这种现象</description>
-      <pubDate>Mon, 05 Jan 2026 00:00:00 -0000</pubDate>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/老梁：学生举报老师 闹剧何时休.m4a" length="38368854" type="audio/m4a"/>
-      <itunes:duration>2372</itunes:duration>
-    </item>
-    <item>
-      <title>老梁：历史上强大神秘的蒙古军队 为何消失</title>
-      <guid isPermaLink="false">tRJrQoBOEos</guid>
-      <description>严选岩茶：https://rock-teas.myshopify.com/</description>
-      <pubDate>Sat, 02 Sep 2023 00:00:00 -0000</pubDate>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/老梁：历史上强大神秘的蒙古军队 为何消失.m4a" length="12763337" type="audio/m4a"/>
-      <itunes:duration>789</itunes:duration>
-    </item>
-    <item>
-      <title>方脸说：马杜罗倒台的关键原因竟是中俄失利？独裁者联盟正在瓦解！新一波民主化浪潮正在到来！委内瑞拉丨川普丨习近平</title>
-      <guid isPermaLink="false">-y9bf0eZiWE</guid>
-      <description>欢迎加入我的会员：https://www.youtube.com/channel/UCzYYzigb1vXR0GQXXBja2kg/join</description>
-      <pubDate>Mon, 05 Jan 2026 00:00:00 -0000</pubDate>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/方脸说：马杜罗倒台的关键原因竟是中俄失利？独裁者联盟正在瓦解！新一波民主化浪潮正在到来！委内瑞拉丨川普丨习近平.m4a" length="17855418" type="audio/m4a"/>
-      <itunes:duration>1104</itunes:duration>
-    </item>
-    <item>
-      <title>為何讓張學良去剿共？</title>
-      <guid isPermaLink="false">-GV-waRYH_0</guid>
-      <description>本集我們來開啟"西安事變"系列" 就從國民黨的剿共安排說起</description>
-      <pubDate>Mon, 05 Jan 2026 00:00:00 -0000</pubDate>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/為何讓張學良去剿共？.m4a" length="24494287" type="audio/m4a"/>
-      <itunes:duration>1515</itunes:duration>
-    </item>
-    <item>
-      <title>袁腾飞会员专享：为什么有的国家会有虚君传统？#方生精选 #history #历史 #china #中国 #搞笑</title>
-      <guid isPermaLink="false">xpiRymmyGtI</guid>
-      <description/>
-      <pubDate>Fri, 02 Jan 2026 00:00:00 -0000</pubDate>
-      <itunes:author>不让方生于此</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E8%A2%81%E8%85%BE%E9%A3%9E%E4%BC%9A%E5%91%98%E4%B8%93%E4%BA%AB%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E7%9A%84%E5%9B%BD%E5%AE%B6%E4%BC%9A%E6%9C%89%E8%99%9A%E5%90%9B%E4%BC%A0%E7%BB%9F%EF%BC%9F%23%E6%96%B9%E7%94%9F%E7%B2%BE%E9%80%89%20%23history%20%23%E5%8E%86%E5%8F%B2%20%23china%20%23%E4%B8%AD%E5%9B%BD%20%23%E6%90%9E%E7%AC%91.m4a" length="13015746" type="audio/mp4"/>
-      <itunes:duration>805</itunes:duration>
-    </item>
-    <item>
-      <title>為冬季而生的蔬菜，曾經不可替代的生存必需品！史上最成功的栽培作物之一，白菜的瘋狂真相……【老肉雜談】#生物 #知識 #植物 #蔬菜 #白菜</title>
-      <guid isPermaLink="false">ggCggeLiAdQ</guid>
-      <description>大白菜和小白菜、青菜、油菜、蕪菁等一種蔬菜是同一個物種「芸薹」，為何長得完全不同？中國古代精妙的栽培技術，造就了一種超級蔬菜！結球形態外加超強抗寒能力，讓它成為北方冬天最重要的蔬菜，畝產兩萬斤的超高產量，讓它成為市場上性價比最高的蔬菜。另外，俗話說“霜打的白菜分外甜”，為什麼大白菜一定要經歷霜凍才能變得好吃？古人到底有多喜歡白菜？今天這期來聊大白菜的傳奇故事。
-加入頻道會員，認識更多神奇的生物，成為資深動物達人~
-https://www.youtube.com/channel/UC5DGiN7-nlPno2kjHUdcdCg/join
-或者到這兒來，一次看個夠：
-https://www.youtube.com/playlist?list=PLwSXERWUG_xSR1_Xn9wpX80UP2OJtsM1U
-本片內容參考了包括但不限於以下影片，深表感謝：
-1、https://www.youtube.com/watch?v=9ifpQbKzyvo
-2、https://www.youtube.com/watch?v=kHq76qRHRjw
-3、https://www.youtube.com/watch?v=-xF4v5lU5hA
-4、https://www.youtube.com/watch?v=e_7QjWdhCBA
-5、https://www.youtube.com/watch?v=weDggxhzV3I
-6、https://www.youtube.com/watch?v=LIEN1ogmkuo
-7、https://www.youtube.com/watch?v=Y-iCRh1J3DE
-8、https://www.youtube.com/watch?v=kMr8n1vpVcc
-9、https://www.youtube.com/watch?v=MqAqSVCqAZA
-10、https://www.youtube.com/watch?v=iIyBOSXls-E
-11、https://www.youtube.com/watch?v=9uEIikY4I-8
-12、https://www.youtube.com/watch?v=5QhttT2u1Sg
-13、https://www.youtube.com/watch?v=l12fgsbURq4
-14、https://www.youtube.com/watch?v=dQqQBkt6DGQ
-15、https://www.youtube.com/watch?v=MfjAkbWYh4k
-16、https://www.youtube.com/watch?v=-_XipDBQQ6A</description>
-      <pubDate>Fri, 26 Dec 2025 00:00:00 -0000</pubDate>
-      <itunes:author>老肉雜談</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E7%82%BA%E5%86%AC%E5%AD%A3%E8%80%8C%E7%94%9F%E7%9A%84%E8%94%AC%E8%8F%9C%EF%BC%8C%E6%9B%BE%E7%B6%93%E4%B8%8D%E5%8F%AF%E6%9B%BF%E4%BB%A3%E7%9A%84%E7%94%9F%E5%AD%98%E5%BF%85%E9%9C%80%E5%93%81%EF%BC%81%E5%8F%B2%E4%B8%8A%E6%9C%80%E6%88%90%E5%8A%9F%E7%9A%84%E6%A0%BD%E5%9F%B9%E4%BD%9C%E7%89%A9%E4%B9%8B%E4%B8%80%EF%BC%8C%E7%99%BD%E8%8F%9C%E7%9A%84%E7%98%8B%E7%8B%82%E7%9C%9F%E7%9B%B8%E2%80%A6%E2%80%A6%E3%80%90%E8%80%81%E8%82%89%E9%9B%9C%E8%AB%87%E3%80%91%23%E7%94%9F%E7%89%A9%20%23%E7%9F%A5%E8%AD%98%20%23%E6%A4%8D%E7%89%A9%20%23%E8%94%AC%E8%8F%9C%20%23%E7%99%BD%E8%8F%9C.m4a" length="14830186" type="audio/mp4"/>
-      <itunes:duration>917</itunes:duration>
-    </item>
-    <item>
-      <title>袁Sir聊南美贩毒：为啥要找马杜罗麻烦？  #lifeano漫聊 251201</title>
-      <guid isPermaLink="false">wKvUxY-fQMs</guid>
-      <description>南美是全球最强毒枭集团的发源地，但毒品贸易为何能发展到如此规模，又为何难以根除？
-本期视频解析南美毒品帝国的崛起：从可卡因生产链、农村贫困、政府腐败，到游击队势力、美国干预，再到墨西哥、哥伦比亚、巴西等地的毒枭混战——毒品经济如何彻底改变了社会与政治结构？
-#南美毒枭 #贩毒集团 #可卡因贸易 #拉美政治 #犯罪史 #毒品战争 #国际毒品走私 #社会动荡 #地缘政治
-用您的支持点亮创作之路，让喜爱的内容持续精彩！点击链接为支持您喜爱的创作者吧：https://shop.lifeano.com/products/%E6%94%AF%E6%8C%81%E5%88%9B%E4%BD%9C%E8%80%85-2
-欢迎加入【Lifeano Club会员】~快来吧：
-https://www.youtube.com/user/tengfeiofficial/join
-【基础会员】袁Sir，以及他的朋友們，一起跟大家敞開了聊！ 
-【高级会员】可观看Lifeano频道内全部内容。更有袁Sir年輕時全套視頻，全網最全集合，YouTube上唯一正版。
-My Producer
-Website：www.lifeano.com
-Twitter：https://twitter.com/lifeanoall
-Discord：https://discord.gg/8aRMCUcHPa
-Facebook：https://www.facebook.com/Lifeano-Talk-104794568541251
-商務合作：business@lifeano.com
-Lifeano
-聚焦文化類音頻視頻，
-通過文化了解世界，
-通過世界探究自我，
-用文化給人生另一種可能。
-Give your life another chance!
-Live your life another way!</description>
-      <pubDate>Mon, 01 Dec 2025 00:00:00 -0000</pubDate>
-      <itunes:author>LIFEANO CLUB</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E8%A2%81Sir%E8%81%8A%E5%8D%97%E7%BE%8E%E8%B4%A9%E6%AF%92%EF%BC%9A%E4%B8%BA%E5%95%A5%E8%A6%81%E6%89%BE%E9%A9%AC%E6%9D%9C%E7%BD%97%E9%BA%BB%E7%83%A6%EF%BC%9F%20%20%23lifeano%E6%BC%AB%E8%81%8A%20251201.m4a" length="20270007" type="audio/mp4"/>
-      <itunes:duration>1253</itunes:duration>
-    </item>
-    <item>
-      <title>袁腾飞经典：为什么外国人认为中国人擅长数学？ #方生精选 #history #china #中国 #熱門 #历史 #popular</title>
-      <guid isPermaLink="false">q2RGPWWGF3I</guid>
-      <description/>
-      <pubDate>Wed, 07 Jan 2026 00:00:00 -0000</pubDate>
-      <itunes:author>不让方生于此</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E8%A2%81%E8%85%BE%E9%A3%9E%E7%BB%8F%E5%85%B8%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%96%E5%9B%BD%E4%BA%BA%E8%AE%A4%E4%B8%BA%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%93%85%E9%95%BF%E6%95%B0%E5%AD%A6%EF%BC%9F%20%23%E6%96%B9%E7%94%9F%E7%B2%BE%E9%80%89%20%23history%20%23china%20%23%E4%B8%AD%E5%9B%BD%20%23%E7%86%B1%E9%96%80%20%23%E5%8E%86%E5%8F%B2%20%23popular.m4a" length="7653149" type="audio/mp4"/>
-      <itunes:duration>473</itunes:duration>
-    </item>
-    <item>
-      <title>袁腾飞聊高考：如果你是一个负责任的家长，千万不要让你的孩子适应中国的教育 ｜中国的大学其实是职业技术培训所 #方生精选 #china #history #高考</title>
-      <guid isPermaLink="false">HT1marqJd9s</guid>
-      <description/>
-      <pubDate>Wed, 12 Jun 2024 00:00:00 -0000</pubDate>
-      <itunes:author>不让方生于此</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E8%A2%81%E8%85%BE%E9%A3%9E%E8%81%8A%E9%AB%98%E8%80%83%EF%BC%9A%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%98%AF%E4%B8%80%E4%B8%AA%E8%B4%9F%E8%B4%A3%E4%BB%BB%E7%9A%84%E5%AE%B6%E9%95%BF%EF%BC%8C%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E8%AE%A9%E4%BD%A0%E7%9A%84%E5%AD%A9%E5%AD%90%E9%80%82%E5%BA%94%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%95%99%E8%82%B2%20%EF%BD%9C%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%A4%A7%E5%AD%A6%E5%85%B6%E5%AE%9E%E6%98%AF%E8%81%8C%E4%B8%9A%E6%8A%80%E6%9C%AF%E5%9F%B9%E8%AE%AD%E6%89%80%20%23%E6%96%B9%E7%94%9F%E7%B2%BE%E9%80%89%20%23china%20%23history%20%23%E9%AB%98%E8%80%83.m4a" length="12745938" type="audio/mp4"/>
-      <itunes:duration>788</itunes:duration>
-    </item>
-    <item>
-      <title>袁腾飞聊拿破仑：拿破仑到底牛在哪儿？ #方生精选 #history #历史 #拿破仑 #熱門</title>
-      <guid isPermaLink="false">hyT78S7fbC0</guid>
-      <description/>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 -0000</pubDate>
-      <itunes:author>不让方生于此</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E8%A2%81%E8%85%BE%E9%A3%9E%E8%81%8A%E6%8B%BF%E7%A0%B4%E4%BB%91%EF%BC%9A%E6%8B%BF%E7%A0%B4%E4%BB%91%E5%88%B0%E5%BA%95%E7%89%9B%E5%9C%A8%E5%93%AA%E5%84%BF%EF%BC%9F%20%23%E6%96%B9%E7%94%9F%E7%B2%BE%E9%80%89%20%23history%20%23%E5%8E%86%E5%8F%B2%20%23%E6%8B%BF%E7%A0%B4%E4%BB%91%20%23%E7%86%B1%E9%96%80.m4a" length="34889295" type="audio/mp4"/>
-      <itunes:duration>2157</itunes:duration>
-    </item>
-    <item>
-      <title>老梁：老夫少妻的炼狱｜王石｜范曾｜杨振宁｜金钱与体贴｜田朴珺｜十年后的危机</title>
-      <guid isPermaLink="false">FzsAqJY115U</guid>
-      <description>网上闹的沸沸扬扬的王石和田朴珺，老梁解读这年来越来越多的老夫少妻现象，老夫少妻应该提前想好这些事情</description>
-      <pubDate>Fri, 09 Jan 2026 00:00:00 -0000</pubDate>
+      <title>老梁：日本足球 衣冠唐制度 礼乐汉君臣</title>
+      <guid isPermaLink="false">NJ8DCV7Gh_0</guid>
+      <description>老梁解读日本足球现在属于脱亚入欧状态，日本足球如何发展，不断的学习是日本足球发展的根本</description>
+      <pubDate>Sun, 25 Jan 2026 00:00:00 -0000</pubDate>
       <itunes:author>老梁</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E8%80%81%E6%A2%81%EF%BC%9A%E8%80%81%E5%A4%AB%E5%B0%91%E5%A6%BB%E7%9A%84%E7%82%BC%E7%8B%B1%EF%BD%9C%E7%8E%8B%E7%9F%B3%EF%BD%9C%E8%8C%83%E6%9B%BE%EF%BD%9C%E6%9D%A8%E6%8C%AF%E5%AE%81%EF%BD%9C%E9%87%91%E9%92%B1%E4%B8%8E%E4%BD%93%E8%B4%B4%EF%BD%9C%E7%94%B0%E6%9C%B4%E7%8F%BA%EF%BD%9C%E5%8D%81%E5%B9%B4%E5%90%8E%E7%9A%84%E5%8D%B1%E6%9C%BA.m4a" length="36397370" type="audio/mp4"/>
-      <itunes:duration>2251</itunes:duration>
+      <enclosure url="https://linpod.lllincx.cn/%E8%80%81%E6%A2%81%EF%BC%9A%E6%97%A5%E6%9C%AC%E8%B6%B3%E7%90%83%20%E8%A1%A3%E5%86%A0%E5%94%90%E5%88%B6%E5%BA%A6%20%E7%A4%BC%E4%B9%90%E6%B1%89%E5%90%9B%E8%87%A3.m4a" length="15808478" type="audio/mp4"/>
+      <itunes:duration>977</itunes:duration>
+      <itunes:image href="https://linpod.lllincx.cn/linpod.jpg"/>
     </item>
     <item>
-      <title>毛泽东如何整死的刘少奇？｜刘少奇和毛泽东的矛盾｜刘少奇为什么被批斗｜刘少奇之死｜刘少奇整人｜刘少奇四清运动｜刘少奇老婆王光美｜刘少奇为什么被打倒｜刘少奇晚年｜毛泽东 刘少奇 王光美｜中共秘闻</title>
-      <guid isPermaLink="false">YIYNbPGrSOE</guid>
-      <description>1962年的七千人大会上，毛泽东被迫做了检讨。会议结束时，他告诉中央书记处安排呼两个口号：“毛主席万岁”，“刘主席万岁！”以显示党的团结。
-毛泽东还面带笑容，拉着刘少奇的手说：“我是三天不学习，赶不上刘少奇。官当大了，不做调查研究了。少奇呀，你听到了吗？现在是两个主席，两个万岁，很好嘛！‘万岁’的重任，你挑起来啦！”
-刘少奇并不知道，在毛泽东的笑容背后，他死期将至。</description>
-      <pubDate>Tue, 13 May 2025 00:00:00 -0000</pubDate>
-      <itunes:author>Cao Cao's daily observation</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E6%AF%9B%E6%B3%BD%E4%B8%9C%E5%A6%82%E4%BD%95%E6%95%B4%E6%AD%BB%E7%9A%84%E5%88%98%E5%B0%91%E5%A5%87%EF%BC%9F%EF%BD%9C%E5%88%98%E5%B0%91%E5%A5%87%E5%92%8C%E6%AF%9B%E6%B3%BD%E4%B8%9C%E7%9A%84%E7%9F%9B%E7%9B%BE%EF%BD%9C%E5%88%98%E5%B0%91%E5%A5%87%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A2%AB%E6%89%B9%E6%96%97%EF%BD%9C%E5%88%98%E5%B0%91%E5%A5%87%E4%B9%8B%E6%AD%BB%EF%BD%9C%E5%88%98%E5%B0%91%E5%A5%87%E6%95%B4%E4%BA%BA%EF%BD%9C%E5%88%98%E5%B0%91%E5%A5%87%E5%9B%9B%E6%B8%85%E8%BF%90%E5%8A%A8%EF%BD%9C%E5%88%98%E5%B0%91%E5%A5%87%E8%80%81%E5%A9%86%E7%8E%8B%E5%85%89%E7%BE%8E%EF%BD%9C%E5%88%98%E5%B0%91%E5%A5%87%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A2%AB%E6%89%93%E5%80%92%EF%BD%9C%E5%88%98%E5%B0%91%E5%A5%87%E6%99%9A%E5%B9%B4%EF%BD%9C%E6%AF%9B%E6%B3%BD%E4%B8%9C%20%E5%88%98%E5%B0%91%E5%A5%87%20%E7%8E%8B%E5%85%89%E7%BE%8E%EF%BD%9C%E4%B8%AD%E5%85%B1%E7%A7%98%E9%97%BB.m4a" length="61370608" type="audio/mp4"/>
-      <itunes:duration>3795</itunes:duration>
-    </item>
-    <item>
-      <title>吓坏体制、点醒草民：峰哥“性压抑论”何以成禁忌？｜三大理论｜屌丝｜小仙女｜清朗行动｜胡锡进｜王局拍案 20251003</title>
-      <guid isPermaLink="false">9KdhabqqwWY</guid>
-      <description>#三大理论 #峰哥亡命天涯 #清朗行动 #胡锡进
-1. YouTube 会员平台
-成为本频道的会员，即可尊享专属福利，提前观看节目，直播，专属会员节目。
-点击链接了解详情并加入：https://www.youtube.com/channel/UCBKDRq35-L8xev4O7ZqBeLg/join
-2. Patreon 会员平台
-在 Patreon 中加入「王局」会员，您不仅可以观看会员专属视频，直播，更能参与会员社群互动，更贴心的是，Patreon 支持使用中国大陆银行卡支付！点击链接立刻加入：
-Patreon 会员加入链接：https://www.patreon.com/join/8734589
-王局新书【王志安谈治国理政第二卷电子书】不怎么火热销售中
-【PATREON购买链接】https://www.patreon.com/c/wangzhian/shop
-【苹果书店购买链接】 https://books.apple.com/us/book/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7/id6739830450
-【亚马逊电子书购买链接】 https://www.amazon.co.jp/%E7%8E%8B%E5%BF%97%E5%AE%89%E8%B0%88%E6%B2%BB%E5%9B%BD%E7%90%86%E6%94%BF%E7%AC%AC%E4%BA%8C%E5%8D%B7-Traditional-Chinese-%E5%BF%97%E5%AE%89-%E7%8E%8B-ebook/dp/B0DRJ8R48M</description>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 -0000</pubDate>
-      <itunes:author>王志安 </itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E5%90%93%E5%9D%8F%E4%BD%93%E5%88%B6%E3%80%81%E7%82%B9%E9%86%92%E8%8D%89%E6%B0%91%EF%BC%9A%E5%B3%B0%E5%93%A5%E2%80%9C%E6%80%A7%E5%8E%8B%E6%8A%91%E8%AE%BA%E2%80%9D%E4%BD%95%E4%BB%A5%E6%88%90%E7%A6%81%E5%BF%8C%EF%BC%9F%EF%BD%9C%E4%B8%89%E5%A4%A7%E7%90%86%E8%AE%BA%EF%BD%9C%E5%B1%8C%E4%B8%9D%EF%BD%9C%E5%B0%8F%E4%BB%99%E5%A5%B3%EF%BD%9C%E6%B8%85%E6%9C%97%E8%A1%8C%E5%8A%A8%EF%BD%9C%E8%83%A1%E9%94%A1%E8%BF%9B%EF%BD%9C%E7%8E%8B%E5%B1%80%E6%8B%8D%E6%A1%88%2020251003.m4a" length="38230227" type="audio/mp4"/>
-      <itunes:duration>2364</itunes:duration>
-    </item>
-    <item>
-      <title>【睡前消息1002】河北抗冻上热榜 因为已经管不住</title>
-      <guid isPermaLink="false">BHHfhRusAD8</guid>
-      <description>2025年末，河北过冬取暖问题终于得到了久违的关注。我的家乡平泉市，今晚零下15度，天然气6块钱一立方米。</description>
-      <pubDate>Thu, 08 Jan 2026 00:00:00 -0000</pubDate>
-      <itunes:author>睡前消息</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E3%80%90%E7%9D%A1%E5%89%8D%E6%B6%88%E6%81%AF1002%E3%80%91%E6%B2%B3%E5%8C%97%E6%8A%97%E5%86%BB%E4%B8%8A%E7%83%AD%E6%A6%9C%20%E5%9B%A0%E4%B8%BA%E5%B7%B2%E7%BB%8F%E7%AE%A1%E4%B8%8D%E4%BD%8F.m4a" length="15708990" type="audio/mp4"/>
-      <itunes:duration>971</itunes:duration>
-    </item>
-    <item>
-      <title>方脸说：马杜罗被抓，习近平竟成最大输家？马杜罗被抓，对中共的影响有哪些？外交格局进入了什么样的新时代？门罗主义丨新自由主义丨现实主义丨台海冲突丨独裁联盟</title>
-      <guid isPermaLink="false">F_jQjLp7zpE</guid>
-      <description>欢迎加入我的会员：https://www.youtube.com/channel/UCzYYzigb1vXR0GQXXBja2kg/join
-欢迎关注我的推特：https://x.com/torontobigface</description>
-      <pubDate>Thu, 08 Jan 2026 00:00:00 -0000</pubDate>
-      <itunes:author>多伦多方脸</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E6%96%B9%E8%84%B8%E8%AF%B4%EF%BC%9A%E9%A9%AC%E6%9D%9C%E7%BD%97%E8%A2%AB%E6%8A%93%EF%BC%8C%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%AB%9F%E6%88%90%E6%9C%80%E5%A4%A7%E8%BE%93%E5%AE%B6%EF%BC%9F%E9%A9%AC%E6%9D%9C%E7%BD%97%E8%A2%AB%E6%8A%93%EF%BC%8C%E5%AF%B9%E4%B8%AD%E5%85%B1%E7%9A%84%E5%BD%B1%E5%93%8D%E6%9C%89%E5%93%AA%E4%BA%9B%EF%BC%9F%E5%A4%96%E4%BA%A4%E6%A0%BC%E5%B1%80%E8%BF%9B%E5%85%A5%E4%BA%86%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E6%96%B0%E6%97%B6%E4%BB%A3%EF%BC%9F%E9%97%A8%E7%BD%97%E4%B8%BB%E4%B9%89%E4%B8%A8%E6%96%B0%E8%87%AA%E7%94%B1%E4%B8%BB%E4%B9%89%E4%B8%A8%E7%8E%B0%E5%AE%9E%E4%B8%BB%E4%B9%89%E4%B8%A8%E5%8F%B0%E6%B5%B7%E5%86%B2%E7%AA%81%E4%B8%A8%E7%8B%AC%E8%A3%81%E8%81%94%E7%9B%9F.m4a" length="18223830" type="audio/mp4"/>
-      <itunes:duration>1127</itunes:duration>
-    </item>
-    <item>
-      <title>袁腾飞聊俄罗斯筹军费：打仗能有多烧钱？#方生精选 #history #news #podcast</title>
-      <guid isPermaLink="false">pSmbTwZ15Rc</guid>
-      <description/>
-      <pubDate>Mon, 12 Jan 2026 00:00:00 -0000</pubDate>
-      <itunes:author>不让方生于此</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E8%A2%81%E8%85%BE%E9%A3%9E%E8%81%8A%E4%BF%84%E7%BD%97%E6%96%AF%E7%AD%B9%E5%86%9B%E8%B4%B9%EF%BC%9A%E6%89%93%E4%BB%97%E8%83%BD%E6%9C%89%E5%A4%9A%E7%83%A7%E9%92%B1%EF%BC%9F%23%E6%96%B9%E7%94%9F%E7%B2%BE%E9%80%89%20%23history%20%23news%20%23podcast.m4a" length="20410827" type="audio/mp4"/>
-      <itunes:duration>1262</itunes:duration>
-    </item>
-    <item>
-      <title>【睡前消息1004】伊朗、古巴、委内瑞拉 为什么是一家？</title>
-      <guid isPermaLink="false">cRyHCuGhb8w</guid>
-      <description>伊朗、古巴、委内瑞拉，三个政权共同遇到内部危机，这不能简单地用“反美”来解释。</description>
-      <pubDate>Sun, 11 Jan 2026 00:00:00 -0000</pubDate>
-      <itunes:author>睡前消息</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E3%80%90%E7%9D%A1%E5%89%8D%E6%B6%88%E6%81%AF1004%E3%80%91%E4%BC%8A%E6%9C%97%E3%80%81%E5%8F%A4%E5%B7%B4%E3%80%81%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%20%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E4%B8%80%E5%AE%B6%EF%BC%9F.m4a" length="21541543" type="audio/mp4"/>
-      <itunes:duration>1332</itunes:duration>
-    </item>
-    <item>
-      <title>方脸说：毛丨邓丨习谁才是中国最有权势的领导人？为什么我说习近平的权势最大，但是也最脆弱？</title>
-      <guid isPermaLink="false">A4E4Cc1DwJA</guid>
-      <description>欢迎加入我的会员：https://www.youtube.com/channel/UCzYYzigb1vXR0GQXXBja2kg/join
-欢迎关注我的推特：https://x.com/torontobigface</description>
-      <pubDate>Mon, 12 Jan 2026 00:00:00 -0000</pubDate>
-      <itunes:author>多伦多方脸</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E6%96%B9%E8%84%B8%E8%AF%B4%EF%BC%9A%E6%AF%9B%E4%B8%A8%E9%82%93%E4%B8%A8%E4%B9%A0%E8%B0%81%E6%89%8D%E6%98%AF%E4%B8%AD%E5%9B%BD%E6%9C%80%E6%9C%89%E6%9D%83%E5%8A%BF%E7%9A%84%E9%A2%86%E5%AF%BC%E4%BA%BA%EF%BC%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E8%AF%B4%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E6%9D%83%E5%8A%BF%E6%9C%80%E5%A4%A7%EF%BC%8C%E4%BD%86%E6%98%AF%E4%B9%9F%E6%9C%80%E8%84%86%E5%BC%B1%EF%BC%9F.m4a" length="19360459" type="audio/mp4"/>
-      <itunes:duration>1197</itunes:duration>
-    </item>
-    <item>
-      <title>古代被尊為「仙鶴」，現在卻陷入爭議！日本丹頂鶴為什麼性情大變？僅次於鳳凰的鳥，野生丹頂鶴的神秘真相……【老肉雜談】#動物 #知識 #生物 #鳥類 #丹頂鶴</title>
-      <guid isPermaLink="false">VSu38P2ktjc</guid>
-      <description>丹頂鶴在中國文化中享有極高的地位，被尊稱為仙鶴，明清時期的官服上面，只有當朝宰相、一品大員才可以繡丹頂鶴，說明其地位僅次於皇家御用的鳳凰，堪稱現實中的“中華第一鳥”！然而在票選國鳥的活動中，丹頂鶴雖然眾望所歸高票當選，但卻被國務院否決，到底是什麼原因？丹頂鶴具有非常獨特而神秘的生存習性，野生種群與濕地生態密切相關，中國、日本、韓國的丹頂鶴種群有何不同？北海道保護丹頂鶴的措施為何引發爭議？本期節目來聊丹頂鶴的傳奇故事。
-加入頻道會員，認識更多神奇的生物，成為資深動物達人~
-https://www.youtube.com/channel/UC5DGiN7-nlPno2kjHUdcdCg/join
-或者到這兒來，一次看個夠：
-https://www.youtube.com/playlist?list=PLwSXERWUG_xSR1_Xn9wpX80UP2OJtsM1U
-本片內容參考了包括但不限於以下影片，深表感謝：
-1、https://www.youtube.com/watch?v=F1ugMEvpvts
-2、https://www.youtube.com/watch?v=2TsmzVKRPeE
-3、https://www.youtube.com/watch?v=LwR694li5ro
-4、https://www.youtube.com/watch?v=ogSHq15BxNs
-5、https://www.youtube.com/watch?v=Et2l3oU8Jq0
-6、https://www.youtube.com/watch?v=Ml0IkgdaatM
-7、https://www.youtube.com/watch?v=EQSrBoSie28
-8、https://www.youtube.com/watch?v=l58Pw0x5gpY
-9、https://www.youtube.com/watch?v=99lq5Tq6CzY
-10、https://www.youtube.com/watch?v=f-vGpEotSVY
-11、https://www.youtube.com/watch?v=LF__QeackMc
-12、https://www.youtube.com/watch?v=eiY--pmFubI
-13、https://www.youtube.com/watch?v=9wdSdQ6e-1o
-14、https://www.youtube.com/watch?v=lE_rbdlm5hg
-15、https://www.youtube.com/watch?v=AEuw2-o1cos&amp;t=2s
-16、https://www.youtube.com/watch?v=9tUrF7uwkYg&amp;t=1s
-17、https://www.youtube.com/watch?v=f7-Bcs7pOw0
-18、https://www.youtube.com/watch?v=bXxmL5yS42Y&amp;t=2250s
-19、https://www.youtube.com/watch?v=cEHu1D0jtWg&amp;t=1s
-20、https://www.youtube.com/watch?v=_8jNYL-FBVk
-21、https://www.youtube.com/watch?v=WSNKksNCM-Q
-22、https://www.youtube.com/watch?v=rrVOtKpNDCg
-23、https://www.youtube.com/watch?v=5ccPBijvdhg
-24、https://www.youtube.com/watch?v=sXqHf0L9fFg&amp;t=1s
-25、https://www.youtube.com/watch?v=ADwVDrL326g</description>
-      <pubDate>Fri, 09 Jan 2026 00:00:00 -0000</pubDate>
-      <itunes:author>老肉雜談</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E5%8F%A4%E4%BB%A3%E8%A2%AB%E5%B0%8A%E7%82%BA%E3%80%8C%E4%BB%99%E9%B6%B4%E3%80%8D%EF%BC%8C%E7%8F%BE%E5%9C%A8%E5%8D%BB%E9%99%B7%E5%85%A5%E7%88%AD%E8%AD%B0%EF%BC%81%E6%97%A5%E6%9C%AC%E4%B8%B9%E9%A0%82%E9%B6%B4%E7%82%BA%E4%BB%80%E9%BA%BC%E6%80%A7%E6%83%85%E5%A4%A7%E8%AE%8A%EF%BC%9F%E5%83%85%E6%AC%A1%E6%96%BC%E9%B3%B3%E5%87%B0%E7%9A%84%E9%B3%A5%EF%BC%8C%E9%87%8E%E7%94%9F%E4%B8%B9%E9%A0%82%E9%B6%B4%E7%9A%84%E7%A5%9E%E7%A7%98%E7%9C%9F%E7%9B%B8%E2%80%A6%E2%80%A6%E3%80%90%E8%80%81%E8%82%89%E9%9B%9C%E8%AB%87%E3%80%91%23%E5%8B%95%E7%89%A9%20%23%E7%9F%A5%E8%AD%98%20%23%E7%94%9F%E7%89%A9%20%23%E9%B3%A5%E9%A1%9E%20%23%E4%B8%B9%E9%A0%82%E9%B6%B4.m4a" length="16129842" type="audio/mp4"/>
-      <itunes:duration>997</itunes:duration>
-    </item>
-    <item>
-      <title>【睡前消息1003】以色列出兵、阿联酋出钱，伺候索马里兰</title>
-      <guid isPermaLink="false">kykwn5AsOgw</guid>
-      <description>索马里兰的第一个邦交国是以色列。随着人口压力的增长，长期固化的非洲国界，已经开始消亡了。</description>
-      <pubDate>Fri, 09 Jan 2026 00:00:00 -0000</pubDate>
-      <itunes:author>睡前消息</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E3%80%90%E7%9D%A1%E5%89%8D%E6%B6%88%E6%81%AF1003%E3%80%91%E4%BB%A5%E8%89%B2%E5%88%97%E5%87%BA%E5%85%B5%E3%80%81%E9%98%BF%E8%81%94%E9%85%8B%E5%87%BA%E9%92%B1%EF%BC%8C%E4%BC%BA%E5%80%99%E7%B4%A2%E9%A9%AC%E9%87%8C%E5%85%B0.m4a" length="18827689" type="audio/mp4"/>
-      <itunes:duration>1164</itunes:duration>
-    </item>
-    <item>
-      <title>袁腾飞会员专享：为什么俄罗斯不用能打的将军？#方生精选 #history #分享 #熱門 #俄罗斯 #warzone #podcast</title>
-      <guid isPermaLink="false">gfrgK4-GqcA</guid>
-      <description/>
-      <pubDate>Wed, 14 Jan 2026 00:00:00 -0000</pubDate>
-      <itunes:author>不让方生于此</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E8%A2%81%E8%85%BE%E9%A3%9E%E4%BC%9A%E5%91%98%E4%B8%93%E4%BA%AB%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%8D%E7%94%A8%E8%83%BD%E6%89%93%E7%9A%84%E5%B0%86%E5%86%9B%EF%BC%9F%23%E6%96%B9%E7%94%9F%E7%B2%BE%E9%80%89%20%23history%20%23%E5%88%86%E4%BA%AB%20%23%E7%86%B1%E9%96%80%20%23%E4%BF%84%E7%BD%97%E6%96%AF%20%23warzone%20%23podcast.m4a" length="20087108" type="audio/mp4"/>
-      <itunes:duration>1242</itunes:duration>
-    </item>
-    <item>
-      <title>世界四大博物館，為何故宮被排除在外？這背後究竟藏著怎樣的秘密？#观复嘟嘟#马未都#圆桌派#窦文涛#对白#武志红#中国#历史</title>
-      <guid isPermaLink="false">Q6S34tJT1IA</guid>
-      <description>欢迎加入会员解锁正片：
-YOUKU DOCUMENTARY-Get APP now：https://youtube.com/playlist?list=PLkSStqFeh_U9aSd2uxPMvcrnQ4LtJAEWy&amp;si=bsdSnqsKMbZxxjFU 欢迎订阅！一起看更多有趣深度优质的文化访谈视频：https://www.youtube.com/channel/UCfwGF1ZVKDC4aVy_GTltMWA
-【观复嘟嘟】《观复嘟嘟》是一档文化类脱口秀节目。节目延续了马氏独特的风格，说故事，不求真相。过去现在许多可说不可说的，马未都以他的经验、他的故事和他的文物娓娓道来。在一场场笑谈中，收获生活智慧。
-主持人：马未都 嘉宾：观复猫
-【圆桌派】《圆桌派》是一档下饭的聊天综艺节目，由著名媒体人、文化名嘴窦文涛携手优酷“看理想”倾力打造。不设剧本，即兴聊天，平等视角，智慧分享。
-★主持人：窦文涛 
-★嘉宾：陈坤 / 周迅 / 蒋方舟 / 王晶 / 梁文道 / 马家辉 / 周轶君 / 武志红 / 马未都 / 张亚东 / 严歌苓 / 汪海林 / 金宇澄 / 李玫瑾
-#圆桌派#圆桌π#窦文涛#梁文道#马未都​#马家辉#脱口秀#真人秀#锵锵行天下#锵锵三人行#对白#白松岩</description>
-      <pubDate>Tue, 30 Apr 2024 00:00:00 -0000</pubDate>
-      <itunes:author>华语纪实大咖说</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E4%B8%96%E7%95%8C%E5%9B%9B%E5%A4%A7%E5%8D%9A%E7%89%A9%E9%A4%A8%EF%BC%8C%E7%82%BA%E4%BD%95%E6%95%85%E5%AE%AE%E8%A2%AB%E6%8E%92%E9%99%A4%E5%9C%A8%E5%A4%96%EF%BC%9F%E9%80%99%E8%83%8C%E5%BE%8C%E7%A9%B6%E7%AB%9F%E8%97%8F%E8%91%97%E6%80%8E%E6%A8%A3%E7%9A%84%E7%A7%98%E5%AF%86%EF%BC%9F%23%E8%A7%82%E5%A4%8D%E5%98%9F%E5%98%9F%23%E9%A9%AC%E6%9C%AA%E9%83%BD%23%E5%9C%86%E6%A1%8C%E6%B4%BE%23%E7%AA%A6%E6%96%87%E6%B6%9B%23%E5%AF%B9%E7%99%BD%23%E6%AD%A6%E5%BF%97%E7%BA%A2%23%E4%B8%AD%E5%9B%BD%23%E5%8E%86%E5%8F%B2.m4a" length="28093348" type="audio/mp4"/>
-      <itunes:duration>1737</itunes:duration>
-    </item>
-    <item>
-      <title>老梁：宁做阿萨德 不做马杜罗｜流亡莫斯科｜哈梅内伊｜亚努科维奇｜西哈努克亲王｜重耳的三种评估</title>
-      <guid isPermaLink="false">07aqcDPXEng</guid>
-      <description/>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 -0000</pubDate>
+      <title>老梁 ：八大胡同 妓女的起源和消失</title>
+      <guid isPermaLink="false">6b1smjLYHiU</guid>
+      <description>老梁解读老北平的烟花柳巷八大胡同，看妓女的民间百态
+竖屏纯享</description>
+      <pubDate>Sat, 24 Jan 2026 00:00:00 -0000</pubDate>
       <itunes:author>老梁</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E8%80%81%E6%A2%81%EF%BC%9A%E5%AE%81%E5%81%9A%E9%98%BF%E8%90%A8%E5%BE%B7%20%E4%B8%8D%E5%81%9A%E9%A9%AC%E6%9D%9C%E7%BD%97%EF%BD%9C%E6%B5%81%E4%BA%A1%E8%8E%AB%E6%96%AF%E7%A7%91%EF%BD%9C%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%EF%BD%9C%E4%BA%9A%E5%8A%AA%E7%A7%91%E7%BB%B4%E5%A5%87%EF%BD%9C%E8%A5%BF%E5%93%88%E5%8A%AA%E5%85%8B%E4%BA%B2%E7%8E%8B%EF%BD%9C%E9%87%8D%E8%80%B3%E7%9A%84%E4%B8%89%E7%A7%8D%E8%AF%84%E4%BC%B0.m4a" length="34449259" type="audio/mp4"/>
-      <itunes:duration>2130</itunes:duration>
-    </item>
-    <item>
-      <title>【睡前消息1005】华谊兄弟，走投无路</title>
-      <guid isPermaLink="false">i4FUL48UmUw</guid>
-      <description>在当今中国，如果某个知名企业忽然巨亏乃至破产，大概率是投机房地产失败了。</description>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 -0000</pubDate>
-      <itunes:author>睡前消息</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E3%80%90%E7%9D%A1%E5%89%8D%E6%B6%88%E6%81%AF1005%E3%80%91%E5%8D%8E%E8%B0%8A%E5%85%84%E5%BC%9F%EF%BC%8C%E8%B5%B0%E6%8A%95%E6%97%A0%E8%B7%AF.m4a" length="16950424" type="audio/mp4"/>
-      <itunes:duration>1048</itunes:duration>
-    </item>
-    <item>
-      <title>彭德怀为何会和毛泽东生死对决？</title>
-      <guid isPermaLink="false">_6nnYTZ3nt0</guid>
-      <description>“在延安你操了我四十天娘，我操你二十天不行吗？” 1959年庐山，彭德怀用最粗鲁的语言，发出了最决绝的抗争。 毛泽东用力戳灭半截香烟，杀气腾腾地回了一句：“哦，你要操娘？” 从横刀立马的彭大将军，到病榻上哀求警卫“开一枪”的阶下囚，彭德怀到底做错了什么，才落得如此惨烈的终局？</description>
-      <pubDate>Wed, 12 Nov 2025 00:00:00 -0000</pubDate>
-      <itunes:author>Cao Cao's daily observation</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E5%BD%AD%E5%BE%B7%E6%80%80%E4%B8%BA%E4%BD%95%E4%BC%9A%E5%92%8C%E6%AF%9B%E6%B3%BD%E4%B8%9C%E7%94%9F%E6%AD%BB%E5%AF%B9%E5%86%B3%EF%BC%9F.m4a" length="50387113" type="audio/mp4"/>
-      <itunes:duration>3116</itunes:duration>
-    </item>
-    <item>
-      <title>【限免】袁Sir翻牌：《竹书纪年》是靠谱的史书吗？#lifeano翻牌 260104</title>
-      <guid isPermaLink="false">Nk2yXbOChW0</guid>
-      <description>用您的支持点亮创作之路，让喜爱的内容持续精彩！点击链接为支持您喜爱的创作者吧：https://shop.lifeano.com/products/%E6%94%AF%E6%8C%81%E5%88%9B%E4%BD%9C%E8%80%85-2
-欢迎加入【Lifeano Club会员】~快来吧：
-https://www.youtube.com/user/tengfeiofficial/join
-【基础会员】袁Sir，以及他的朋友們，一起跟大家敞開了聊！ 
-【高级会员】可观看Lifeano频道内全部内容。更有袁Sir年輕時全套視頻，全網最全集合，YouTube上唯一正版。
-My Producer
-Website：www.lifeano.com
-Twitter：https://twitter.com/lifeanoall
-Discord：https://discord.gg/8aRMCUcHPa
-Facebook：https://www.facebook.com/Lifeano-Talk-104794568541251
-商務合作：business@lifeano.com
-Lifeano
-聚焦文化類音頻視頻，
-通過文化了解世界，
-通過世界探究自我，
-用文化給人生另一種可能。
-Give your life another chance!
-Live your life another way!</description>
-      <pubDate>Sun, 11 Jan 2026 00:00:00 -0000</pubDate>
-      <itunes:author>LIFEANO CLUB</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E3%80%90%E9%99%90%E5%85%8D%E3%80%91%E8%A2%81Sir%E7%BF%BB%E7%89%8C%EF%BC%9A%E3%80%8A%E7%AB%B9%E4%B9%A6%E7%BA%AA%E5%B9%B4%E3%80%8B%E6%98%AF%E9%9D%A0%E8%B0%B1%E7%9A%84%E5%8F%B2%E4%B9%A6%E5%90%97%EF%BC%9F%23lifeano%E7%BF%BB%E7%89%8C%20260104.m4a" length="9106502" type="audio/mp4"/>
-      <itunes:duration>563</itunes:duration>
-    </item>
-    <item>
-      <title>方脸说：中国电动车行业到底怎么样了？下一个可能的大雷，新能源汽车！中国电动车的危机和转折点！</title>
-      <guid isPermaLink="false">4O5jqJEPGbA</guid>
-      <description>欢迎加入我的会员：https://www.youtube.com/channel/UCzYYzigb1vXR0GQXXBja2kg/join
-欢迎关注我的推特：https://x.com/torontobigface
-0:00 引言
-1:55 看不见的暗流
-5:11 不该放缓的销量
-7:11 转型时刻
-15:17 错失先发优势
-22:12 继续托举</description>
-      <pubDate>Wed, 08 Oct 2025 00:00:00 -0000</pubDate>
-      <itunes:author>多伦多方脸</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E6%96%B9%E8%84%B8%E8%AF%B4%EF%BC%9A%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E8%BD%A6%E8%A1%8C%E4%B8%9A%E5%88%B0%E5%BA%95%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%EF%BC%9F%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%8F%AF%E8%83%BD%E7%9A%84%E5%A4%A7%E9%9B%B7%EF%BC%8C%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%EF%BC%81%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E8%BD%A6%E7%9A%84%E5%8D%B1%E6%9C%BA%E5%92%8C%E8%BD%AC%E6%8A%98%E7%82%B9%EF%BC%81.m4a" length="24453356" type="audio/mp4"/>
-      <itunes:duration>1512</itunes:duration>
-    </item>
-    <item>
-      <title>零售教父：索爾·普萊斯与Costco的发家史，商業模式和理念，又是如何影響了Costco的發展，使其擁有今天的成就？</title>
-      <guid isPermaLink="false">RQDUqHpjJM4</guid>
-      <description>今年8月，《財富》雜誌公佈最新的世界500強名單，倉儲式零售巨頭Costco位居第20位，年營收超過2000億美元，全球會員人數更是達到驚人的1億2500萬。半個世紀前，一位年逾六旬的老人被迫離開了自己親手創辦的公司。他懷著滿腔怒火，誓要東山再起。他被Costco奉為精神導師，是沃爾瑪創始人山姆·沃爾頓（Sam Walton）的崇拜偶像，更是會員制倉儲超市的開山鼻祖。他就是索爾·普萊斯 (Sol Price)。那麼，索爾與Costco這家零售巨頭有著怎樣的聯繫？他的商業模式和理念，又是如何影響了Costco的發展，使其擁有今天的成就。老規矩，咱們的故事還是要從100多年前開始說起。</description>
-      <pubDate>Wed, 25 Sep 2024 00:00:00 -0000</pubDate>
-      <itunes:author>胖貓堂主</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E9%9B%B6%E5%94%AE%E6%95%99%E7%88%B6%EF%BC%9A%E7%B4%A2%E7%88%BE%C2%B7%E6%99%AE%E8%90%8A%E6%96%AF%E4%B8%8ECostco%E7%9A%84%E5%8F%91%E5%AE%B6%E5%8F%B2%EF%BC%8C%E5%95%86%E6%A5%AD%E6%A8%A1%E5%BC%8F%E5%92%8C%E7%90%86%E5%BF%B5%EF%BC%8C%E5%8F%88%E6%98%AF%E5%A6%82%E4%BD%95%E5%BD%B1%E9%9F%BF%E4%BA%86Costco%E7%9A%84%E7%99%BC%E5%B1%95%EF%BC%8C%E4%BD%BF%E5%85%B6%E6%93%81%E6%9C%89%E4%BB%8A%E5%A4%A9%E7%9A%84%E6%88%90%E5%B0%B1%EF%BC%9F.m4a" length="17710539" type="audio/mp4"/>
-      <itunes:duration>1095</itunes:duration>
-    </item>
-    <item>
-      <title>袁Sir聊极限施压：对日做好战争准备？野生国师僭越了 #方生精选 #history #历史 #中国 #news #china #分享 #熱門</title>
-      <guid isPermaLink="false">axBFTyPvelA</guid>
-      <description/>
-      <pubDate>Fri, 16 Jan 2026 00:00:00 -0000</pubDate>
-      <itunes:author>不让方生于此</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E8%A2%81Sir%E8%81%8A%E6%9E%81%E9%99%90%E6%96%BD%E5%8E%8B%EF%BC%9A%E5%AF%B9%E6%97%A5%E5%81%9A%E5%A5%BD%E6%88%98%E4%BA%89%E5%87%86%E5%A4%87%EF%BC%9F%E9%87%8E%E7%94%9F%E5%9B%BD%E5%B8%88%E5%83%AD%E8%B6%8A%E4%BA%86%20%23%E6%96%B9%E7%94%9F%E7%B2%BE%E9%80%89%20%23history%20%23%E5%8E%86%E5%8F%B2%20%23%E4%B8%AD%E5%9B%BD%20%23news%20%23china%20%23%E5%88%86%E4%BA%AB%20%23%E7%86%B1%E9%96%80.m4a" length="19688323" type="audio/mp4"/>
-      <itunes:duration>1217</itunes:duration>
-    </item>
-    <item>
-      <title>【睡前消息1006】适应信息集权时代——马督工对谈聂辉华（上）</title>
-      <guid isPermaLink="false">rjzuDtOjGVc</guid>
-      <description>2013年之后，中央直接管的事情越来越多，地方的自主权相对来说减少了，这背后有各种原因。</description>
-      <pubDate>Sat, 17 Jan 2026 00:00:00 -0000</pubDate>
-      <itunes:author>睡前消息</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E3%80%90%E7%9D%A1%E5%89%8D%E6%B6%88%E6%81%AF1006%E3%80%91%E9%80%82%E5%BA%94%E4%BF%A1%E6%81%AF%E9%9B%86%E6%9D%83%E6%97%B6%E4%BB%A3%E2%80%94%E2%80%94%E9%A9%AC%E7%9D%A3%E5%B7%A5%E5%AF%B9%E8%B0%88%E8%81%82%E8%BE%89%E5%8D%8E%EF%BC%88%E4%B8%8A%EF%BC%89.m4a" length="36987506" type="audio/mp4"/>
-      <itunes:duration>2287</itunes:duration>
-    </item>
-    <item>
-      <title>豆包手机得罪了谁？</title>
-      <guid isPermaLink="false">vsTuC-NytKs</guid>
-      <description>用豆包手机也一个多月了，今天，咱就唠唠豆包手机到底是用什么手段拆掉了 App 的围墙？又为什么被互联网大厂围追堵截？在这背后，我们又在迎接一个什么样的未来？</description>
-      <pubDate>Fri, 16 Jan 2026 00:00:00 -0000</pubDate>
-      <itunes:author>林亦LYi</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E5%BE%97%E7%BD%AA%E4%BA%86%E8%B0%81%EF%BC%9F.m4a" length="8247270" type="audio/mp4"/>
-      <itunes:duration>510</itunes:duration>
-    </item>
-    <item>
-      <title>方脸说：习近平还会打台湾吗？还有能力打台湾吗？习近平不能接受的武统代价！台海新局势！武统台湾丨打台湾丨台海战争</title>
-      <guid isPermaLink="false">2dzWLlHn8Sw</guid>
-      <description>欢迎加入我的会员：https://www.youtube.com/channel/UCzYYzigb1vXR0GQXXBja2kg/join
-欢迎关注我的推特：https://x.com/torontobigface
-0:00 打台湾的可能性
-2:55 打台湾的代价
-9:14 习近平越来越无法接受武统的代价</description>
-      <pubDate>Sun, 18 Jan 2026 00:00:00 -0000</pubDate>
-      <itunes:author>多伦多方脸</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E6%96%B9%E8%84%B8%E8%AF%B4%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%BF%98%E4%BC%9A%E6%89%93%E5%8F%B0%E6%B9%BE%E5%90%97%EF%BC%9F%E8%BF%98%E6%9C%89%E8%83%BD%E5%8A%9B%E6%89%93%E5%8F%B0%E6%B9%BE%E5%90%97%EF%BC%9F%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8D%E8%83%BD%E6%8E%A5%E5%8F%97%E7%9A%84%E6%AD%A6%E7%BB%9F%E4%BB%A3%E4%BB%B7%EF%BC%81%E5%8F%B0%E6%B5%B7%E6%96%B0%E5%B1%80%E5%8A%BF%EF%BC%81%E6%AD%A6%E7%BB%9F%E5%8F%B0%E6%B9%BE%E4%B8%A8%E6%89%93%E5%8F%B0%E6%B9%BE%E4%B8%A8%E5%8F%B0%E6%B5%B7%E6%88%98%E4%BA%89.m4a" length="20034612" type="audio/mp4"/>
-      <itunes:duration>1239</itunes:duration>
-    </item>
-    <item>
-      <title>豬籠草到底有多聰明？恐怖死亡陷阱能捕獵哺乳動物，卻被當成「廁所」！世界上最大的食肉植物，豬籠草的瘋狂真相……【老肉雜談】#知識 #生物 #科普 #植物 #食蟲植物</title>
-      <guid isPermaLink="false">09CHgpw6QhY</guid>
-      <description>作為世界上最著名的食肉植物之一，豬籠草絕對是非常獨特的存在，以東南亞為中心總共有約200個物種，這些豬籠草多數是以捕獵昆蟲等無脊椎動物為生，但也有像馬來王豬籠草這種能捕獵樹鼩、老鼠、鳥類等脊椎動物的巨無霸，是世界上最大的食肉植物！然而，除了捕獵動物獲取營養之外，有些豬籠草正在逐漸演化出全新的生存之道，和螞蟻、樹鼩、蝙蝠共生的豬籠草已經選擇了完全不一樣的策略，食肉植物不再需要吃肉，而是改吃素食，這何嘗不是一種進步呢？
-加入頻道會員，認識更多神奇的生物，成為資深動物達人~
-https://www.youtube.com/channel/UC5DGiN7-nlPno2kjHUdcdCg/join
-或者到這兒來，一次看個夠：
-https://www.youtube.com/playlist?list=PLwSXERWUG_xSR1_Xn9wpX80UP2OJtsM1U
-本片內容參考了包括但不限於以下影片，深表感謝：
-1、https://www.youtube.com/watch?v=wYujn5za9dg
-2、https://www.youtube.com/watch?v=L2ODWvzDZbg
-3、https://www.youtube.com/watch?v=ntm7g4P9GW0
-4、https://www.youtube.com/watch?v=wfyP7vxcGA4
-5、https://www.youtube.com/watch?v=pbFmAQLcvvQ
-6、https://www.youtube.com/watch?v=ai2Je5CO6B0
-7、https://www.youtube.com/watch?v=2rnWVQE4PzI
-8、https://www.youtube.com/watch?v=1CP1i0UKvb8
-9、https://www.youtube.com/watch?v=on36lgULdKU
-10、https://www.youtube.com/watch?v=5c3NvbrEAqM
-11、https://www.youtube.com/watch?v=m_CjOlalTpw
-12、https://www.youtube.com/watch?v=TwL7K_loRjM
-13、https://www.youtube.com/watch?v=yt2ckFI2xwc
-14、https://www.youtube.com/watch?v=rqbzJFpp8Bk
-15、https://www.youtube.com/watch?v=D_Hgjrh8Ybo
-16、https://www.youtube.com/watch?v=IjSbX6vhlEs
-17、https://www.youtube.com/watch?v=9SDRzq_nIYw
-18、https://www.youtube.com/watch?v=vo-weLAT-T4
-19、https://www.youtube.com/watch?v=E9BnFb36x1U
-20、https://www.youtube.com/watch?v=9p4fcHnQXVM
-22、https://www.youtube.com/watch?v=hlWU_LYvK6g
-23、https://www.youtube.com/watch?v=4HjJZCbKxQ4
-24、https://www.youtube.com/watch?v=zVDdNDM7yVs
-25、https://www.youtube.com/watch?v=RL9A7Ar-EfM
-26、https://www.youtube.com/watch?v=BQP5PbK93vo
-27、https://www.youtube.com/watch?v=ksPPNoLYII4
-28、https://www.youtube.com/watch?v=qAkBgQ75lhc
-29、https://www.youtube.com/watch?v=b17CsVEeeE0</description>
-      <pubDate>Fri, 16 Jan 2026 00:00:00 -0000</pubDate>
-      <itunes:author>老肉雜談</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E8%B1%AC%E7%B1%A0%E8%8D%89%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E8%81%B0%E6%98%8E%EF%BC%9F%E6%81%90%E6%80%96%E6%AD%BB%E4%BA%A1%E9%99%B7%E9%98%B1%E8%83%BD%E6%8D%95%E7%8D%B5%E5%93%BA%E4%B9%B3%E5%8B%95%E7%89%A9%EF%BC%8C%E5%8D%BB%E8%A2%AB%E7%95%B6%E6%88%90%E3%80%8C%E5%BB%81%E6%89%80%E3%80%8D%EF%BC%81%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%A4%A7%E7%9A%84%E9%A3%9F%E8%82%89%E6%A4%8D%E7%89%A9%EF%BC%8C%E8%B1%AC%E7%B1%A0%E8%8D%89%E7%9A%84%E7%98%8B%E7%8B%82%E7%9C%9F%E7%9B%B8%E2%80%A6%E2%80%A6%E3%80%90%E8%80%81%E8%82%89%E9%9B%9C%E8%AB%87%E3%80%91%23%E7%9F%A5%E8%AD%98%20%23%E7%94%9F%E7%89%A9%20%23%E7%A7%91%E6%99%AE%20%23%E6%A4%8D%E7%89%A9%20%23%E9%A3%9F%E8%9F%B2%E6%A4%8D%E7%89%A9.m4a" length="16691248" type="audio/mp4"/>
-      <itunes:duration>1032</itunes:duration>
-    </item>
-    <item>
-      <title>為什麼胡適從親蘇，變成反共第一人？一位啟蒙者的反詐覺醒史！｜中日啟蒙家的不同命運｜馮友蘭｜福澤諭吉｜西田幾多郎｜中國哲學｜中日對比｜政治謊言｜《解構與重建-中國哲學的可能性》｜宇文老師</title>
-      <guid isPermaLink="false">npDJi-HYdpk</guid>
-      <description>你的支持對頻道的發展至關重要～
-加入頻道會員：
-https://www.youtube.com/channel/UCxVvGfszC-yUlhvo-MgWQxg/join
--------
-捐赠 (stripe)：
-https://donate.stripe.com/5kAfZYe6OcGW3nycMV
-加密貨幣USDT
-地址：0xB7D1AF6414d04D5637Fb94ccc457d9899a5Be990
-網絡：BEP20</description>
-      <pubDate>Wed, 14 Jan 2026 00:00:00 -0000</pubDate>
-      <itunes:author>宇文老師</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E7%82%BA%E4%BB%80%E9%BA%BC%E8%83%A1%E9%81%A9%E5%BE%9E%E8%A6%AA%E8%98%87%EF%BC%8C%E8%AE%8A%E6%88%90%E5%8F%8D%E5%85%B1%E7%AC%AC%E4%B8%80%E4%BA%BA%EF%BC%9F%E4%B8%80%E4%BD%8D%E5%95%9F%E8%92%99%E8%80%85%E7%9A%84%E5%8F%8D%E8%A9%90%E8%A6%BA%E9%86%92%E5%8F%B2%EF%BC%81%EF%BD%9C%E4%B8%AD%E6%97%A5%E5%95%9F%E8%92%99%E5%AE%B6%E7%9A%84%E4%B8%8D%E5%90%8C%E5%91%BD%E9%81%8B%EF%BD%9C%E9%A6%AE%E5%8F%8B%E8%98%AD%EF%BD%9C%E7%A6%8F%E6%BE%A4%E8%AB%AD%E5%90%89%EF%BD%9C%E8%A5%BF%E7%94%B0%E5%B9%BE%E5%A4%9A%E9%83%8E%EF%BD%9C%E4%B8%AD%E5%9C%8B%E5%93%B2%E5%AD%B8%EF%BD%9C%E4%B8%AD%E6%97%A5%E5%B0%8D%E6%AF%94%EF%BD%9C%E6%94%BF%E6%B2%BB%E8%AC%8A%E8%A8%80%EF%BD%9C%E3%80%8A%E8%A7%A3%E6%A7%8B%E8%88%87%E9%87%8D%E5%BB%BA-%E4%B8%AD%E5%9C%8B%E5%93%B2%E5%AD%B8%E7%9A%84%E5%8F%AF%E8%83%BD%E6%80%A7%E3%80%8B%EF%BD%9C%E5%AE%87%E6%96%87%E8%80%81%E5%B8%AB.m4a" length="18642850" type="audio/mp4"/>
-      <itunes:duration>1153</itunes:duration>
-    </item>
-    <item>
-      <title>老梁：罗永浩 贾国龙的预制菜之争</title>
-      <guid isPermaLink="false">fkA72hW-aHc</guid>
-      <description>节目常看常新，三个月前老梁对预制菜的一期节目，视频修订手机纯享版，看看老梁的预测准不准</description>
-      <pubDate>Wed, 21 Jan 2026 00:00:00 -0000</pubDate>
-      <itunes:author>老梁</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E8%80%81%E6%A2%81%EF%BC%9A%E7%BD%97%E6%B0%B8%E6%B5%A9%20%E8%B4%BE%E5%9B%BD%E9%BE%99%E7%9A%84%E9%A2%84%E5%88%B6%E8%8F%9C%E4%B9%8B%E4%BA%89.m4a" length="46437351" type="audio/mp4"/>
-      <itunes:duration>2871</itunes:duration>
-    </item>
-    <item>
-      <title>方脸说：5%的GDP增速，为什么我们生活感受差距这么大？从GDP增速看大厦将倾的中国经济！解码中国GDP增速！</title>
-      <guid isPermaLink="false">qVeFdXhxnAk</guid>
-      <description>欢迎加入我的会员：https://www.youtube.com/channel/UCzYYzigb1vXR0GQXXBja2kg/join
-欢迎关注我的推特：https://x.com/torontobigface</description>
-      <pubDate>Wed, 21 Jan 2026 00:00:00 -0000</pubDate>
-      <itunes:author>多伦多方脸</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E6%96%B9%E8%84%B8%E8%AF%B4%EF%BC%9A5%25%E7%9A%84GDP%E5%A2%9E%E9%80%9F%EF%BC%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E7%94%9F%E6%B4%BB%E6%84%9F%E5%8F%97%E5%B7%AE%E8%B7%9D%E8%BF%99%E4%B9%88%E5%A4%A7%EF%BC%9F%E4%BB%8EGDP%E5%A2%9E%E9%80%9F%E7%9C%8B%E5%A4%A7%E5%8E%A6%E5%B0%86%E5%80%BE%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%EF%BC%81%E8%A7%A3%E7%A0%81%E4%B8%AD%E5%9B%BDGDP%E5%A2%9E%E9%80%9F%EF%BC%81.m4a" length="18156964" type="audio/mp4"/>
-      <itunes:duration>1123</itunes:duration>
-    </item>
-    <item>
-      <title>老梁讲曾国藩 毛泽东蒋介石推崇备至的大贤</title>
-      <guid isPermaLink="false">8pkBQAc7H_Q</guid>
-      <description>老梁解读曾国藩修订版</description>
-      <pubDate>Tue, 20 Jan 2026 00:00:00 -0000</pubDate>
-      <itunes:author>老梁</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E8%80%81%E6%A2%81%E8%AE%B2%E6%9B%BE%E5%9B%BD%E8%97%A9%20%E6%AF%9B%E6%B3%BD%E4%B8%9C%E8%92%8B%E4%BB%8B%E7%9F%B3%E6%8E%A8%E5%B4%87%E5%A4%87%E8%87%B3%E7%9A%84%E5%A4%A7%E8%B4%A4.m4a" length="44935827" type="audio/mp4"/>
-      <itunes:duration>2778</itunes:duration>
-    </item>
-    <item>
-      <title>【睡前消息1007】我研究官场——马督工对谈聂辉华（下）</title>
-      <guid isPermaLink="false">aT_BcBCq9jA</guid>
-      <description>除了官场那些事，聂教授还具体解释了他给青年人的六条建议：“降低预期，提高技能，锻炼身体，珍惜时间，学好英语，多看历史。”</description>
-      <pubDate>Tue, 20 Jan 2026 00:00:00 -0000</pubDate>
-      <itunes:author>睡前消息</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E3%80%90%E7%9D%A1%E5%89%8D%E6%B6%88%E6%81%AF1007%E3%80%91%E6%88%91%E7%A0%94%E7%A9%B6%E5%AE%98%E5%9C%BA%E2%80%94%E2%80%94%E9%A9%AC%E7%9D%A3%E5%B7%A5%E5%AF%B9%E8%B0%88%E8%81%82%E8%BE%89%E5%8D%8E%EF%BC%88%E4%B8%8B%EF%BC%89.m4a" length="35304805" type="audio/mp4"/>
-      <itunes:duration>2183</itunes:duration>
+      <enclosure url="https://linpod.lllincx.cn/%E8%80%81%E6%A2%81%20%EF%BC%9A%E5%85%AB%E5%A4%A7%E8%83%A1%E5%90%8C%20%E5%A6%93%E5%A5%B3%E7%9A%84%E8%B5%B7%E6%BA%90%E5%92%8C%E6%B6%88%E5%A4%B1.m4a" length="44571246" type="audio/mp4"/>
+      <itunes:duration>2756</itunes:duration>
+      <itunes:image href="https://linpod.lllincx.cn/linpod.jpg"/>
     </item>
     <item>
       <title>袁Sir聊伊朗“统治之术”：反复镇压，能万岁吗？#lifeano漫聊 260122</title>
@@ -656,8 +51,9 @@ Give your life another chance!
 Live your life another way!</description>
       <pubDate>Thu, 22 Jan 2026 00:00:00 -0000</pubDate>
       <itunes:author>LIFEANO CLUB</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E8%A2%81Sir%E8%81%8A%E4%BC%8A%E6%9C%97%E2%80%9C%E7%BB%9F%E6%B2%BB%E4%B9%8B%E6%9C%AF%E2%80%9D%EF%BC%9A%E5%8F%8D%E5%A4%8D%E9%95%87%E5%8E%8B%EF%BC%8C%E8%83%BD%E4%B8%87%E5%B2%81%E5%90%97%EF%BC%9F%23lifeano%E6%BC%AB%E8%81%8A%20260122.m4a" length="20286118" type="audio/mp4"/>
+      <enclosure url="https://linpod.lllincx.cn/%E8%A2%81Sir%E8%81%8A%E4%BC%8A%E6%9C%97%E2%80%9C%E7%BB%9F%E6%B2%BB%E4%B9%8B%E6%9C%AF%E2%80%9D%EF%BC%9A%E5%8F%8D%E5%A4%8D%E9%95%87%E5%8E%8B%EF%BC%8C%E8%83%BD%E4%B8%87%E5%B2%81%E5%90%97%EF%BC%9F%23lifeano%E6%BC%AB%E8%81%8A%20260122.m4a" length="20286118" type="audio/mp4"/>
       <itunes:duration>1254</itunes:duration>
+      <itunes:image href="https://linpod.lllincx.cn/linpod.jpg"/>
     </item>
     <item>
       <title>【睡前消息1008】2025全年盘点（上 国内部分）</title>
@@ -665,17 +61,81 @@ Live your life another way!</description>
       <description>从2022年开始，年终盘点传统一直保持。今年依旧是迟到但不缺席。</description>
       <pubDate>Thu, 22 Jan 2026 00:00:00 -0000</pubDate>
       <itunes:author>睡前消息</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E3%80%90%E7%9D%A1%E5%89%8D%E6%B6%88%E6%81%AF1008%E3%80%912025%E5%85%A8%E5%B9%B4%E7%9B%98%E7%82%B9%EF%BC%88%E4%B8%8A%20%E5%9B%BD%E5%86%85%E9%83%A8%E5%88%86%EF%BC%89.m4a" length="39740522" type="audio/mp4"/>
+      <enclosure url="https://linpod.lllincx.cn/%E3%80%90%E7%9D%A1%E5%89%8D%E6%B6%88%E6%81%AF1008%E3%80%912025%E5%85%A8%E5%B9%B4%E7%9B%98%E7%82%B9%EF%BC%88%E4%B8%8A%20%E5%9B%BD%E5%86%85%E9%83%A8%E5%88%86%EF%BC%89.m4a" length="39740522" type="audio/mp4"/>
       <itunes:duration>2457</itunes:duration>
+      <itunes:image href="https://linpod.lllincx.cn/linpod.jpg"/>
     </item>
     <item>
-      <title>老梁：联合国快解散了</title>
-      <guid isPermaLink="false">TcOiv_5ktX4</guid>
-      <description>最近川普打算退出30多个联合国相关组织，老梁就现阶段联合国存在的必要性进行解读</description>
-      <pubDate>Fri, 23 Jan 2026 00:00:00 -0000</pubDate>
+      <title>袁腾飞会员专享：为啥我只看没有女主角的战争电影？#方生精选 #袁腾飞 #history #熱門 #分享 #movie</title>
+      <guid isPermaLink="false">tfQqrE5hu80</guid>
+      <description/>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 -0000</pubDate>
+      <itunes:author>不让方生于此</itunes:author>
+      <enclosure url="https://linpod.lllincx.cn/%E8%A2%81%E8%85%BE%E9%A3%9E%E4%BC%9A%E5%91%98%E4%B8%93%E4%BA%AB%EF%BC%9A%E4%B8%BA%E5%95%A5%E6%88%91%E5%8F%AA%E7%9C%8B%E6%B2%A1%E6%9C%89%E5%A5%B3%E4%B8%BB%E8%A7%92%E7%9A%84%E6%88%98%E4%BA%89%E7%94%B5%E5%BD%B1%EF%BC%9F%23%E6%96%B9%E7%94%9F%E7%B2%BE%E9%80%89%20%23%E8%A2%81%E8%85%BE%E9%A3%9E%20%23history%20%23%E7%86%B1%E9%96%80%20%23%E5%88%86%E4%BA%AB%20%23movie.m4a" length="37533065" type="audio/mp4"/>
+      <itunes:duration>2321</itunes:duration>
+      <itunes:image href="https://linpod.lllincx.cn/linpod.jpg"/>
+    </item>
+    <item>
+      <title>老梁：古代爱情榜第一 卓文君的且行且珍惜</title>
+      <guid isPermaLink="false">uOO0CzaaM80</guid>
+      <description>老梁解读卓文君和司马相如的爱情，从私奔到且行且珍惜，中国家庭的走向</description>
+      <pubDate>Wed, 28 Jan 2026 00:00:00 -0000</pubDate>
       <itunes:author>老梁</itunes:author>
-      <enclosure url="https://linpod.oss-cn-shanghai.aliyuncs.com/%E8%80%81%E6%A2%81%EF%BC%9A%E8%81%94%E5%90%88%E5%9B%BD%E5%BF%AB%E8%A7%A3%E6%95%A3%E4%BA%86.m4a" length="35693970" type="audio/mp4"/>
-      <itunes:duration>2207</itunes:duration>
+      <enclosure url="https://linpod.lllincx.cn/%E8%80%81%E6%A2%81%EF%BC%9A%E5%8F%A4%E4%BB%A3%E7%88%B1%E6%83%85%E6%A6%9C%E7%AC%AC%E4%B8%80%20%E5%8D%93%E6%96%87%E5%90%9B%E7%9A%84%E4%B8%94%E8%A1%8C%E4%B8%94%E7%8F%8D%E6%83%9C.m4a" length="48618289" type="audio/mp4"/>
+      <itunes:duration>3006</itunes:duration>
+      <itunes:image href="https://linpod.lllincx.cn/linpod.jpg"/>
+    </item>
+    <item>
+      <title>方脸说：旧秩序瓦解，新秩序建立！川普构建的新世界秩序是什么样的？新世界秩序对中国有什么影响？新冷战丨格陵兰岛丨抓捕马杜罗丨联合国体系丨特朗普</title>
+      <guid isPermaLink="false">lR7GaZYdsAg</guid>
+      <description>欢迎加入我的会员：https://www.youtube.com/channel/UCzYYzigb1vXR0GQXXBja2kg/join
+欢迎关注我的推特：https://x.com/torontobigface</description>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 -0000</pubDate>
+      <itunes:author>多伦多方脸</itunes:author>
+      <enclosure url="https://linpod.lllincx.cn/%E6%96%B9%E8%84%B8%E8%AF%B4%EF%BC%9A%E6%97%A7%E7%A7%A9%E5%BA%8F%E7%93%A6%E8%A7%A3%EF%BC%8C%E6%96%B0%E7%A7%A9%E5%BA%8F%E5%BB%BA%E7%AB%8B%EF%BC%81%E5%B7%9D%E6%99%AE%E6%9E%84%E5%BB%BA%E7%9A%84%E6%96%B0%E4%B8%96%E7%95%8C%E7%A7%A9%E5%BA%8F%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%EF%BC%9F%E6%96%B0%E4%B8%96%E7%95%8C%E7%A7%A9%E5%BA%8F%E5%AF%B9%E4%B8%AD%E5%9B%BD%E6%9C%89%E4%BB%80%E4%B9%88%E5%BD%B1%E5%93%8D%EF%BC%9F%E6%96%B0%E5%86%B7%E6%88%98%E4%B8%A8%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E4%B8%A8%E6%8A%93%E6%8D%95%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%A8%E8%81%94%E5%90%88%E5%9B%BD%E4%BD%93%E7%B3%BB%E4%B8%A8%E7%89%B9%E6%9C%97%E6%99%AE.m4a" length="24271612" type="audio/mp4"/>
+      <itunes:duration>1501</itunes:duration>
+      <itunes:image href="https://linpod.lllincx.cn/linpod.jpg"/>
+    </item>
+    <item>
+      <title>老梁：环环相扣的辽宁营口杀人案</title>
+      <guid isPermaLink="false">zq85siJs738</guid>
+      <description>道光十五年发生在辽宁营口的一起凶杀案</description>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 -0000</pubDate>
+      <itunes:author>老梁</itunes:author>
+      <enclosure url="https://linpod.lllincx.cn/%E8%80%81%E6%A2%81%EF%BC%9A%E7%8E%AF%E7%8E%AF%E7%9B%B8%E6%89%A3%E7%9A%84%E8%BE%BD%E5%AE%81%E8%90%A5%E5%8F%A3%E6%9D%80%E4%BA%BA%E6%A1%88.m4a" length="26873973" type="audio/mp4"/>
+      <itunes:duration>1662</itunes:duration>
+      <itunes:image href="https://linpod.lllincx.cn/linpod.jpg"/>
+    </item>
+    <item>
+      <title>方脸说：为什么说张又侠的落马是一种必然？已经大权在握的习近平，反腐为何依然永无止境？运动式反腐</title>
+      <guid isPermaLink="false">Zx07SSbRfpQ</guid>
+      <description>欢迎加入我的会员：https://www.youtube.com/channel/UCzYYzigb1vXR0GQXXBja2kg/join
+欢迎关注我的推特：https://x.com/torontobigface</description>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 -0000</pubDate>
+      <itunes:author>多伦多方脸</itunes:author>
+      <enclosure url="https://linpod.lllincx.cn/%E6%96%B9%E8%84%B8%E8%AF%B4%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E5%BC%A0%E5%8F%88%E4%BE%A0%E7%9A%84%E8%90%BD%E9%A9%AC%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BF%85%E7%84%B6%EF%BC%9F%E5%B7%B2%E7%BB%8F%E5%A4%A7%E6%9D%83%E5%9C%A8%E6%8F%A1%E7%9A%84%E4%B9%A0%E8%BF%91%E5%B9%B3%EF%BC%8C%E5%8F%8D%E8%85%90%E4%B8%BA%E4%BD%95%E4%BE%9D%E7%84%B6%E6%B0%B8%E6%97%A0%E6%AD%A2%E5%A2%83%EF%BC%9F%E8%BF%90%E5%8A%A8%E5%BC%8F%E5%8F%8D%E8%85%90.m4a" length="18295543" type="audio/mp4"/>
+      <itunes:duration>1131</itunes:duration>
+      <itunes:image href="https://linpod.lllincx.cn/linpod.jpg"/>
+    </item>
+    <item>
+      <title>袁腾飞会员专享：东方人为何如此依赖公司？ #方生精选 #history #china #中国 #分享 #podcast</title>
+      <guid isPermaLink="false">PQLtwp60lkI</guid>
+      <description/>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 -0000</pubDate>
+      <itunes:author>不让方生于此</itunes:author>
+      <enclosure url="https://linpod.lllincx.cn/%E8%A2%81%E8%85%BE%E9%A3%9E%E4%BC%9A%E5%91%98%E4%B8%93%E4%BA%AB%EF%BC%9A%E4%B8%9C%E6%96%B9%E4%BA%BA%E4%B8%BA%E4%BD%95%E5%A6%82%E6%AD%A4%E4%BE%9D%E8%B5%96%E5%85%AC%E5%8F%B8%EF%BC%9F%20%23%E6%96%B9%E7%94%9F%E7%B2%BE%E9%80%89%20%23history%20%23china%20%23%E4%B8%AD%E5%9B%BD%20%23%E5%88%86%E4%BA%AB%20%23podcast.m4a" length="18031940" type="audio/mp4"/>
+      <itunes:duration>1115</itunes:duration>
+      <itunes:image href="https://linpod.lllincx.cn/linpod.jpg"/>
+    </item>
+    <item>
+      <title>老梁：在中国 还有可能赚大钱吗</title>
+      <guid isPermaLink="false">6UlEOwrfVyI</guid>
+      <description>瑞银发布《2025全球亿万富翁调查报告》，老梁解读中国的亿万富翁</description>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 -0000</pubDate>
+      <itunes:author>老梁</itunes:author>
+      <enclosure url="https://linpod.lllincx.cn/%E8%80%81%E6%A2%81%EF%BC%9A%E5%9C%A8%E4%B8%AD%E5%9B%BD%20%E8%BF%98%E6%9C%89%E5%8F%AF%E8%83%BD%E8%B5%9A%E5%A4%A7%E9%92%B1%E5%90%97.m4a" length="26999093" type="audio/mp4"/>
+      <itunes:duration>1669</itunes:duration>
+      <itunes:image href="https://linpod.lllincx.cn/linpod.jpg"/>
     </item>
   </channel>
 </rss>
